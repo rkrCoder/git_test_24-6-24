@@ -1,1 +1,2 @@
 index changed line1
+index changed line2
